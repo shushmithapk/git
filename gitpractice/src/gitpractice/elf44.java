@@ -1,5 +1,7 @@
 package gitpractice;
 
 public class elf44 {
-main()
+public static void main(String[] args) {
+	
+}
 }
